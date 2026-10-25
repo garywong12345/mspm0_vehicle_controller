@@ -1,0 +1,15 @@
+# CCS Build directories
+Debug/
+Release/
+
+# Compiled object and executable files
+*.out
+*.obj
+*.d
+*.map
+*.hex
+*.a
+
+# Eclipse/CCS workspace metadata (do NOT ignore .ccsproject or .cproject)
+.metadata/
+.settings/
